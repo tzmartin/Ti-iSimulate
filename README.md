@@ -1,5 +1,7 @@
 # Ti iSimulate Module
 
+![iSimulate Image](http://www.vimov.com/images/10/isimulate/doc-screenshot-01.jpg)
+
 ## Description
 
 iSimulate is an application/library pair designed to solve the issue of not being able to use multi-touch, the accelerometer and compass in the iOS Simulator. Now, with iSimulate on your iPhone, iPad or iPod Touch, it will wirelessly send multi-touch events, the accelerometer and compass events, and the GPS location to the iOS Simulator.
@@ -7,7 +9,7 @@ iSimulate is an application/library pair designed to solve the issue of not bein
 This module brings iSimulate into your Titanium project for testing accelerometer events in the simulator using your device.
 
 Read more about iSimulate here: http://www.vimov.com/isimulate/documentation/
-
+http://www.vimov.com/images/10/isimulate/doc-screenshot-01.jpg
 ## Accessing the Ti iSimulate Module
 
 To use this module, you will need to download iSimulate iPhone app from the Apple App Store.  Then you must install this TiSimulate module in your Titanium project.
