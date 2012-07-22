@@ -1,6 +1,6 @@
 # Ti iSimulate Module
 
-![iSimulate Image](http://www.vimov.com/images/10/isimulate/doc-screenshot-01.jpg)
+![iSimulate Image](http://www.vimov.com/images/10/isimulate/header-banner-02.png)
 
 ## Description
 
