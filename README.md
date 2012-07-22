@@ -19,6 +19,9 @@ To use this module, you will need to download iSimulate iPhone app from the Appl
 
 Note: There is no need to explicitly invoke the JavaScript require() method in your Titanium project.  This module wraps the iSimulate SDK library directly to CoreLocation and will be compiled as part of your app project.
 
+You may want to add this to the global module directory:
+~/Library/Application Support/Titanium/modules
+
 ## FAQs
 
 ### How does iSimulate work?
