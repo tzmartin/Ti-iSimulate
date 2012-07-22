@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: This is a wrapper module for iSimulate iOS 4.x.  Supports multi-touch, accelerometer, GPS and Compass.
+http://www.vimov.com/isimulate/sdk/
+author: Terry Martin <terryzmartin@gmail.com>
+license: MIT
+copyright: Terry Martin
+
+
+# these should not be edited
+name: isimulate
+moduleid: ti.isimulate
+guid: b08530b5-a1b1-4ef2-93b1-7632503e21c1
+platform: iphone
+minsdk: 2.1.0.GA
